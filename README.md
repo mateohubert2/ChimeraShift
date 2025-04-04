@@ -62,14 +62,14 @@ La force de ChimeraShift réside dans l’intégration du cycle MAPE-K, qui perm
 Ce cycle permet à ChimeraShift de s’ajuster en permanence, en passant d’un test automatique basique à des attaques ciblées plus avancées lorsque nécessaire, et de réagir face aux mécanismes de sécurité mis en place.
 
 ---
+ChimeraShift est conçu pour aider les professionnels de la sécurité à effectuer des tests de pénétration de manière proactive et intelligente, en s'adaptant continuellement aux évolutions des infrastructures et aux nouvelles menaces.  
+**Note importante :** Utilisez ChimeraShift uniquement sur des systèmes qui vous appartiennent ou pour lesquels vous disposez d'une autorisation explicite.
 
 ## Installation et Configuration
 
 ### Prérequis
 
-- **Système d'exploitation** : Compatible avec les distributions Linux, macOS et Windows (via environnement compatible).
-- **Environnements requis** : Python (version ≥ 3.8), bibliothèques et dépendances listées dans le fichier `requirements.txt`.
-- **Accès Administratif** : Pour exécuter certains tests de reconnaissance et de pentesting, des privilèges administratifs peuvent être requis.
+**Prochainement**
 
 ### Étapes d’Installation
 **Prochainement**

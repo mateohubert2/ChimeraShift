@@ -72,8 +72,4 @@ Ce cycle permet à ChimeraShift de s’ajuster en permanence, en passant d’un 
 - **Accès Administratif** : Pour exécuter certains tests de reconnaissance et de pentesting, des privilèges administratifs peuvent être requis.
 
 ### Étapes d’Installation
-
-1. **Cloner le dépôt GitHub :**
-   ```bash
-   git clone https://github.com/votre-utilisateur/ChimeraShift.git
-   cd ChimeraShift
+**Prochainement**

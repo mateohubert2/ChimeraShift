@@ -100,6 +100,7 @@ case "${options[$selected]}" in
 		done
 
 		echo "✅ Target acquired: $target"
+		/bin/bash Scripts/pre_engagement.sh
 		;;
 	"See previous pentests")
 		echo "→ Loading previous reports..."
